@@ -1,4 +1,4 @@
-package com.devwork.twobuffoons.drinkingapp;
+package com.devwork.twobuffoons.thewaker;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

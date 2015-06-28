@@ -1,4 +1,4 @@
-package com.devwork.twobuffoons.drinkingapp;
+package com.devwork.twobuffoons.thewaker;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
